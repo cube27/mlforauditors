@@ -1,0 +1,14 @@
+﻿Project,Business Unit,Expected Duration (years),Actual Duration,Budget Amount,Actual Amount,Team Size,Result
+Project A,IT,1,1.2,100000,125000,10,Successful
+Project B,IT,1.5,0.5,200000,185000,12,Not Successful
+Project C,SCM,2,3,200000,285000,2,
+Project D,SCM,1.5,1,100000,115000,3,
+Project E,SCM,1,0.75,2000000,2030000,20,
+Project F,SCM,0.5,0.6,50000,60000,12,
+Project G,Finance,0.5,0.7,30000,100000,3,
+Project H,Finance,0.75,1,10000,6000,5,
+Project I,Finance,1,1.5,20000,10000,2,
+Project J,Operations,2,1.5,40000,45000,9,
+Project K,Operations,1,0.9,34000,36000,5,
+Project L,Operations,1.5,1.6,200000,185000,23,
+Project M,IT,0.25,4,50000,100000,30,
